@@ -1,11 +1,14 @@
 import logo from './logo.svg';
+import ProjectCarousel from './components/ProjectCarousel';
+import Navbar from './components/Navbar';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Zaid Ismail</h1>
-    </div>
+    <>
+      <Navbar />
+      <ProjectCarousel />
+    </>
   );
 }
 
