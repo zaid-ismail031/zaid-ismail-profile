@@ -27,5 +27,13 @@ img {
   margin-left: 50px;
 }
 
+.flexbox-container {
+  display: flex;
+}
 
+.flexbox-item {
+  width: 50%;
+  margin: 10px;
+  border: 5px solid rgb(0, 0, 0);
+}
 

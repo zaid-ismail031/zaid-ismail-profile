@@ -10,8 +10,8 @@ export default class Navbar extends Component {
             <div className="nav-wrapper">
               <ul id="nav-mobile" class="left hide-on-med-and-down">
                 <li ><a href="/">Home</a></li>
-                <li ><a href="/question2">Resume</a></li>
-                <li ><a href="/question3">Projects</a></li>
+                <li ><a href="/resume">Resume</a></li>
+                <li ><a href="/projects">Projects</a></li>
               </ul>
             </div>
           </nav>
